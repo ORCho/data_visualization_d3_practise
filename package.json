@@ -1,0 +1,19 @@
+{
+  "name": "project_d3",
+  "version": "1.0.0",
+  "description": "practise with d3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ORCho/gitreview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ORCho/gitreview/issues"
+  },
+  "homepage": "https://github.com/ORCho/gitreview#readme"
+}
